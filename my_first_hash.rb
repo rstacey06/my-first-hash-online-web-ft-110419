@@ -14,7 +14,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 
-hash = {"key1" => "value1"}
+hash["key1"]
 
 end
 
