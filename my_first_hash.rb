@@ -25,4 +25,4 @@ def adding
                  }
 end
 shipping_manifest["muskets"] => 2
-
+end
