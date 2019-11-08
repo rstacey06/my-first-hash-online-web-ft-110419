@@ -14,7 +14,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 
-shipping_manifest[]
+hash = {"key1" => "value1"}
 
 end
 
